@@ -1,3 +1,9 @@
+## 0.4.0 (2024-12-10)
+
+### Feat
+
+- added simple web service with Gin
+
 ## 0.3.0 (2024-12-09)
 
 ### Feat
