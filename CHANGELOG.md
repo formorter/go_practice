@@ -1,3 +1,9 @@
+## 0.3.0 (2024-12-09)
+
+### Feat
+
+- added multi-model workspace for hello, create greetings module
+
 ## 0.2.0 (2024-12-09)
 
 ### Feat
