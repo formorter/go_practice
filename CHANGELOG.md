@@ -1,3 +1,10 @@
+## 0.5.0 (2024-12-10)
+
+### Feat
+
+- leetcode palindrome
+- leetcode two-sum
+
 ## 0.4.0 (2024-12-10)
 
 ### Feat
